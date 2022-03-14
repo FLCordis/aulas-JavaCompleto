@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1629238884691_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1629238884698_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1630536825369_5" label="Aulas" name="Aulas">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GUI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Singleton" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Formulário (GUI)" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Modelo MVC (Model-View-Controler)" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1631918578715_5" label="Aulas João" name="Aulas João">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Alo" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1636557688621_6" label="Curso Java" name="Curso Java">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Debuggando" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Manipulando Strings" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Curso Programação" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Products in Stock" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Triangulo com Orientacao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Employee Salary" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Operador bitwise" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Estrutura Repetitiva" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Rectangle Info" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Funçoes" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Student Final Grade (Orient. Obj)" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Membros Estáticos" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Conversor Dólar" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Construtores" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/- Encapsulamento -" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Conta Bancária (exercicio Módulo 9)" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Array - Introdução" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Array - Produtos" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Boxing &amp; Unboxing" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Laço each" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Interface Lista" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Exercicio Lista com Empregados" type="4"/>
+<item elementID="=Matrizes" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1629238885909_2" label="Window Working Set" name="Aggregate for window 1629238885909"/>
+<mruList name="Aulas"/>
+</workingSetManager>
